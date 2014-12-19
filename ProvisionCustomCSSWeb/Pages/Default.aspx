@@ -13,7 +13,7 @@
  <asp:ScriptManager ID="ScriptManager1" runat="server" EnableCdn="True" />
     <div id="divSPChrome"></div>
     <div style="left: 40px; position: absolute;">
-        <h1>Scenario 1: Set custom CSS to host site</h1>
+        <h1>Scenario 1: Set custom CSS to host site testing</h1>
         In this scenario you'll learn how to set custom CSS to the host site using custom user action and JavaScript injection pattern.
         <ul style="list-style-type: square;">
             <li>How to deploy needed CSS file to host web</li>

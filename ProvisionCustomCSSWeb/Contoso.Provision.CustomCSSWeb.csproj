@@ -78,6 +78,8 @@
   <ItemGroup>
     <None Include="bin\Contoso.Provision.CustomCSSWeb.dll.config" />
     <None Include="Properties\PublishProfiles\app test.pubxml" />
+    <None Include="Properties\PublishProfiles\masterpage %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\masterpage.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
