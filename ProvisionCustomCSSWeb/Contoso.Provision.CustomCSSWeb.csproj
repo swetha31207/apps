@@ -77,6 +77,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Contoso.Provision.CustomCSSWeb.dll.config" />
+    <None Include="Properties\PublishProfiles\app test.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
