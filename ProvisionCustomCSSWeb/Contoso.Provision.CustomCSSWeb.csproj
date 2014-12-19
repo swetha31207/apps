@@ -76,6 +76,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="bin\Contoso.Provision.CustomCSSWeb.dll.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -84,6 +85,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Contoso.Provision.CustomCSSWeb.dll" />
+    <Content Include="bin\Contoso.Provision.CustomCSSWeb.pdb" />
+    <Content Include="bin\en\Microsoft.IdentityModel.resources.dll" />
+    <Content Include="bin\Microsoft.IdentityModel.dll" />
+    <Content Include="bin\Microsoft.IdentityModel.Extensions.dll" />
+    <Content Include="bin\Microsoft.SharePoint.Client.dll" />
+    <Content Include="bin\Microsoft.SharePoint.Client.Runtime.dll" />
     <Content Include="CSS\contoso.css" />
     <Content Include="Global.asax" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
